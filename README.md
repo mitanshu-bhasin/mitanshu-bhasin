@@ -2,8 +2,7 @@
 <h3 align="center">"Building the Impossible. System Architect & Elite Full-Stack Developer."</h3>
 
 <p align="center">
-<img src="https://mitanshubhasin.netlify.app/mitanshu%20bhasin.jpg" alt="mitanshu-bhasin" />
-<a href="https://www.google.com/search?q=https://github.com/mitanshu-bhasin"> alt="Maintained"></a>
+  <img src="https://mitanshubhasin.netlify.app/mitanshu%20bhasin.jpg" alt="Mitanshu Bhasin" width="200" style="border-radius: 50%;">
 </p>
 
 🕵️‍♂️ About The "Shadow Architect"
@@ -50,11 +49,6 @@ Dimaag aur hardware dono overclocked rehte hain. Here's what I build with:
 
 📊 The GitHub Grind Stats
 
-<p align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmitanshu-bhasin%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D030712" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmitanshu-bhasin%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D030712" />
-</p>
-
 ⚡ Let's Connect
 
 "Agar system banana easy lagne lage, toh samajh lo system ko aur complex banane ka waqt aa gaya hai."
@@ -62,6 +56,6 @@ Dimaag aur hardware dono overclocked rehte hain. Here's what I build with:
 Drop a message if you want to talk about System Architecture, AI, or high-performance web engineering.
 
 <p align="center">
-<a href="mailto:mfskufgu@gmail.com"><img src="https://www.vecteezy.com/free-vector/email-icon" alt="Email"/></a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/mitanshubhasin"><img src="https://www.rawpixel.com/search/linkedin%20icon" alt="LinkedIn"/></a>
+<a href="mailto:mfskufgu@gmail.com">Email/></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/mitanshubhasin">Linkdin/></a>
 </p>
