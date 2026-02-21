@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://mitanshubhasin.netlify.app/mitanshu%20bhasin.jpg" alt="mitanshu-bhasin" />
-<a href="https://www.google.com/search?q=https://github.com/mitanshu-bhasin"><img src="https://stock.adobe.com/search?k=maintenance+logo" alt="Maintained"></a>
+<a href="https://www.google.com/search?q=https://github.com/mitanshu-bhasin"> alt="Maintained"></a>
 </p>
 
 🕵️‍♂️ About The "Shadow Architect"
@@ -62,6 +62,6 @@ Dimaag aur hardware dono overclocked rehte hain. Here's what I build with:
 Drop a message if you want to talk about System Architecture, AI, or high-performance web engineering.
 
 <p align="center">
-<a href="mailto:your-email@example.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/></a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/mitanshu-bhasin"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/></a>
+<a href="mailto:mfskufgu@gmail.com"><img src="https://www.vecteezy.com/free-vector/email-icon" alt="Email"/></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/mitanshubhasin"><img src="https://www.rawpixel.com/search/linkedin%20icon" alt="LinkedIn"/></a>
 </p>
