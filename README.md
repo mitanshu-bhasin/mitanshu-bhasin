@@ -2,8 +2,8 @@
 <h3 align="center">"Building the Impossible. System Architect & Elite Full-Stack Developer."</h3>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dmitanshu-bhasin%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="mitanshu-bhasin" />
-<a href="https://www.google.com/search?q=https://github.com/mitanshu-bhasin"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Maintained%253F-yes-green.svg" alt="Maintained"></a>
+<img src="https://mitanshubhasin.netlify.app/mitanshu%20bhasin.jpg" alt="mitanshu-bhasin" />
+<a href="https://www.google.com/search?q=https://github.com/mitanshu-bhasin"><img src="https://stock.adobe.com/search?k=maintenance+logo" alt="Maintained"></a>
 </p>
 
 🕵️‍♂️ About The "Shadow Architect"
