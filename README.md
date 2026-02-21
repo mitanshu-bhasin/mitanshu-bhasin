@@ -22,8 +22,7 @@ Welcome to my digital turf. Main ek System Architect aur Elite Full-Stack Develo
 Dimaag aur hardware dono overclocked rehte hain. Here's what I build with:
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,js,html,css,tailwind,react,firebase,gcp,git,github,vscode,linux%26perline%3D12" />
+<a href="https://mitanshubhasin.netlify.app/">
 </a>
 </p>
 
